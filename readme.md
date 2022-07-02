@@ -36,7 +36,7 @@
       <h3 align="center">HR On-line Drop Box</h3>
         <br />
         <a target="_blank" href="https://hr-box.herokuapp.com/">
-            <img src="images/Hrbox.png" width="100%" alt="#"/>
+            <img src="images/HrBox.png" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
