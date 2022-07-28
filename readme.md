@@ -41,10 +41,10 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/KevinTapol/HR-Box" target="_blank">
+  <a target="_blank" href="https://github.com/KevinTapol/HR-Box" >
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://hr-box.herokuapp.com/" target="_blank">
+  <a target="_blank" href="https://hr-box.herokuapp.com/" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -59,14 +59,55 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/KevinTapol/diner" target="_blank">
+  <a target="_blank" href="https://github.com/KevinTapol/diner">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://admirable-sunburst-ebb38d.netlify.app/" target="_blank">
+  <a target="_blank" href="https://admirable-sunburst-ebb38d.netlify.app/" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML CSS</strong> - A mobile friendly netlify hosted website for D's Diner. </p>
+    </td>
+  </tr> 
+</table>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio Website</h3>
+        <br />
+        <a target="_blank" href="https://kevintapol.github.io/Portfolio/index.html">
+            <img src="images/portfolio.png" width="100%" alt="#"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a target="_blank" href="https://github.com/KevinTapol/KevinTapol" >
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a target="_blank" href="https://kevintapol.github.io/Portfolio/index.html" >
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5UP, Javascript, JQuery, HTML, CSS</strong> - A github hosted Profile website</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">D's Diner"</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="#g" width="100%"  alt="#"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a target="_blank" href="#" >
+    <img src="#"/>
+  </a>
+  <a target="_blank" href="#" >
+    <img src="#"/>
+  </a>
+      </p>
+        <p><strong>Technologies</strong> Description </p>
     </td>
   </tr> 
 </table>
