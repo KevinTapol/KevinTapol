@@ -91,8 +91,8 @@
       </p>
         <p><strong>HTML5UP, Javascript, JQuery, HTML, CSS</strong> - A github hosted Profile website</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">D's Diner"</h3>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Project Name</h3>
         <br />
       <a target="_blank" href="#">
             <img src="#g" width="100%"  alt="#"/>
@@ -100,7 +100,7 @@
         <br />
         <p align="center">
           
-  <a target="_blank" href="#" >
+  <!-- <a target="_blank" href="#" >
     <img src="#"/>
   </a>
   <a target="_blank" href="#" >
@@ -108,6 +108,6 @@
   </a>
       </p>
         <p><strong>Technologies</strong> Description </p>
-    </td>
+    </td> --> 
   </tr> 
 </table>
