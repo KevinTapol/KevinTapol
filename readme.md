@@ -95,7 +95,7 @@
       <h3 align="center">My next project</h3>
         <br />
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html">
-            <img src="#g" width="100%"  alt="#"/>
+            <img src="images/nasaapi.png" width="100%"  alt="#"/>
         </a>
         <br />
         <p align="center">
@@ -104,7 +104,7 @@
     <img src="#"/>
   </a>
   <a target="_blank" href="#" >
-    <img src="images/nasaapi.png"/>
+    <img src=""/>
   </a>
       </p>
         <p><strong>Technologies</strong> Description </p>
