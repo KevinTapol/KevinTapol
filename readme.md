@@ -92,7 +92,7 @@
         <p><strong>HTML5UP, Javascript, JQuery, HTML, CSS</strong> - A github hosted Profile website</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">My next project</h3>
+      <h3 align="center">Nasa Picture of the Day</h3>
         <br />
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html">
             <img src="images/nasaapi.png" width="100%"  alt="#"/>
@@ -100,14 +100,14 @@
         <br />
         <p align="center">
           
-  <a target="_blank" href="#" >
+  <a target="_blank" href="https://github.com/KevinTapol/NasaApi" >
     <img src="#"/>
   </a>
-  <a target="_blank" href="#" >
-    <img src=""/>
+  <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html" >
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Technologies</strong> Description </p>
+        <p><strong>HTML CSS JS Nasa API</strong>Fetch Historical Nasa Api by Day</p>
     </td>
   </tr> 
 </table>
