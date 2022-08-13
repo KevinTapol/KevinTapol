@@ -95,7 +95,7 @@
       <h3 align="center">Nasa Picture of the Day</h3>
         <br />
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html">
-            <img src="images/nasaapi.png" width="100%"  alt="#"/>
+            <img src="images/nasaApi.png" width="100%"  alt="#"/>
         </a>
         <br />
         <p align="center">
