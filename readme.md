@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML CSS JS Nasa API</strong> - Fetch Historical Nasa Api by Day</p>
+        <p><strong>HTML, CSS, JS, Node.js, dotenv, Git/Github, Nasa API</strong> - Fetch Historical Nasa Api by Day</p>
     </td>
   </tr> 
 </table>
