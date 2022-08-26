@@ -53,7 +53,7 @@
     <td width="50%" valign="top">
       <h3 align="center">D's Diner"</h3>
         <br />
-      <a target="_blank" href="https://admirable-sunburst-ebb38d.netlify.app/">
+      <a target="_blank" href="https://dees-diner.netlify.app/">
             <img src="images/D'sDiner.png" width="100%"  alt="#"/>
         </a>
         <br />
@@ -62,7 +62,7 @@
   <a target="_blank" href="https://github.com/KevinTapol/diner">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a target="_blank" href="https://admirable-sunburst-ebb38d.netlify.app/" >
+  <a target="_blank" href="https://dees-diner.netlify.app/" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -76,16 +76,16 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio Website</h3>
         <br />
-        <a target="_blank" href="https://kevintapol.github.io/Portfolio/index.html">
+        <a target="_blank" href="https://kevintapolcsanyi.netlify.app/">
             <img src="images/portfolio.png" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
           
-  <a target="_blank" href="https://github.com/KevinTapol/KevinTapol" >
+  <a target="_blank" href="https://github.com/KevinTapol/PortfolioC" >
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a target="_blank" href="https://kevintapol.github.io/Portfolio/index.html" >
+  <a target="_blank" href="https://kevintapolcsanyi.netlify.app/" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
