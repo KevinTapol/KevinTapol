@@ -51,7 +51,7 @@
         <p><strong>Javascript, MongoDb, Heroku, Node.js, & Express.js</strong> - A hosted full stack crud app project that allows users to submit like and delete HR suggestions.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">D's Diner"</h3>
+      <h3 align="center">D's Diner</h3>
         <br />
       <a target="_blank" href="https://dees-diner.netlify.app/">
             <img src="images/D'sDiner.png" width="100%"  alt="#"/>
