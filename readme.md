@@ -1,4 +1,4 @@
-<img align= "center" src="images/veteran.jpg" style="max-width: 400px"/>
+<img align= "center" src="images/veteran.jpg" style="max-width: 300px"/>
 
 </br></br></br>
 <!-- or should i use <br /> -->
