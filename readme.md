@@ -1,39 +1,6 @@
-<!--I'm considering putting the Veteran image and Technologies into a table as well like the projects-->
 
-<!-- tag that centers Image -->
-<center>
-  <img align= "center" src="images/veteran.jpg" style="max-width: 200px"/>
-</center>
-</br></br></br>
-<!-- or should i use <br /> -->
 
-<h2 style="margin-top:12px" align="center">Technologies</h2>
-<!-- table for technologies -->
-<table align="center">
-    <tr> <!--Js--> 
-        <td align="center"  width="140" height="112.43">
-            <img src="images/es6.png" width="65" height="65" alt="JavaScript ES6" />
-            <br>JavaScript ES6
-        </td> <!--React--> 
-        <td align="center"  width="140" height="112.43">
-            <img src="images/react.png" width="65" height="65" alt="React.js" />
-            <br>React.js
-        </td> <!--Node--> 
-        <td align="center"  width="140" height="112.43">
-            <img src="images/node.png" width="65" height="65" alt="Node.js" />
-            <br>Node.js
-        </td> <!--Express--> 
-        <td align="center"  width="140" height="112.43">
-            <img src="images/express.png" width="65" height="65" alt="Express.js" />
-            <br>Express
-        </td>
-        <!-- add mongoDb heroku netlify git github rename to Technologies -->
-    </tr>
-</table>
-<!-- End of table for technologies -->
-</br></br></br>
-
-<h1 align="center">Projects</h1>
+<h1 align="center">My Websites</h1>
 <table bordercolor="#66b2b2">
   <!-- Start of table with Portfolio and Group Project Shoppin' It -->
   <tr>
@@ -158,4 +125,38 @@
     </td> <!--End of D's Diner-->
   </tr> <!--End of table row of both HR Box and D's Diner-->
 </table>
+</br>
+<!--I'm considering putting the Veteran image and Technologies into a table as well like the projects-->
+
+<!-- tag that centers Image -->
+<center>
+  <img align= "center" src="images/veteran.jpg" width="200px"/>
+</center>
+</br>
+
+<h2 style="margin-top:12px" align="center">Technologies</h2>
+<!-- table for technologies -->
+<table align="center">
+    <tr> <!--Js--> 
+        <td align="center"  width="140" height="112.43">
+            <img src="images/es6.png" width="65" height="65" alt="JavaScript ES6" />
+            <br>JavaScript ES6
+        </td> <!--React--> 
+        <td align="center"  width="140" height="112.43">
+            <img src="images/react.png" width="65" height="65" alt="React.js" />
+            <br>React.js
+        </td> <!--Node--> 
+        <td align="center"  width="140" height="112.43">
+            <img src="images/node.png" width="65" height="65" alt="Node.js" />
+            <br>Node.js
+        </td> <!--Express--> 
+        <td align="center"  width="140" height="112.43">
+            <img src="images/express.png" width="65" height="65" alt="Express.js" />
+            <br>Express
+        </td>
+        <!-- add mongoDb heroku netlify git github rename to Technologies -->
+    </tr>
+</table>
+<!-- End of table for technologies -->
+</br></br></br>
 
