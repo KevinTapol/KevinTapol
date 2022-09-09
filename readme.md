@@ -137,8 +137,9 @@
       <a target="_blank" href="https://www.codewars.com/users/KevinTap">
         <img src="images/CodewarsRank.png" width="100%"  alt="#"/>
       </a><a target="_blank" href="https://www.codewars.com/users/KevinTap">
+      </br></br>
         <p align="center">
-          <img align="center" width="200px" src="images/DailyPush.png" width="100%"  alt="#"/>
+          <img align="center" width="300px" src="images/DailyPush.png" width="100%"  alt="#"/>
         </p>
       </a>
       <br />
@@ -161,6 +162,7 @@
 <!-- <center>img</center> no longer works-->
 <!-- <img align="center"> no longer works -->
 <!-- <img style="margin: auto"> no longer works-->
+<!-- current solutions are to next in p tag or table > td and add align="center" -->
 <table align="center">
   <tr>
     <td align="center"> <img src="images/veteran.jpg" width="200px"/>
