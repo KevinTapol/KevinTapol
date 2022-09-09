@@ -129,9 +129,9 @@
 <!--I'm considering putting the Veteran image and Technologies into a table as well like the projects-->
 
 <!-- tag that centers Image -->
-<center>
-  <img src="images/veteran.jpg" width="200px"/>
-</center>
+
+<img style="margin-left: 50%" src="images/veteran.jpg" width="200px"/>
+
 </br>
 
 <h2 style="margin-top:12px" align="center">Technologies</h2>
