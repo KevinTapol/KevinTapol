@@ -130,7 +130,7 @@
 
 <!-- tag that centers Image -->
 <center>
-  <img align= "center" src="images/veteran.jpg" width="200px"/>
+  <img src="images/veteran.jpg" width="200px"/>
 </center>
 </br>
 
