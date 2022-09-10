@@ -118,7 +118,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a> <!--Click website icon link to open a new window to D's Diner website-->
         <a target="_blank" href="https://dees-diner.netlify.app/" >
-          <img width="200" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
         </p> <!--Description of technologies and functionality of D's Diner-->
         <p><strong>HTML CSS</strong> - A mobile friendly netlify hosted website for D's Diner. </p>
