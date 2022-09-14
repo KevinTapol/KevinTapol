@@ -10,6 +10,7 @@
       <a target="_blank" href="https://kevintapolcsanyi.netlify.app/">
         <img src="images/portfolio.png" width="100%" alt="#"/>
       </a>
+      <!-- [![Portfolio](/images/portfolio.png)](https://kevintapolcsanyi.netlify.app/) -->
       <br />
       <p align="center"> <!--Click repo icon to link to GitHub Portfolio repo-->
       <a target="_blank" href="https://github.com/KevinTapol/PortfolioC" >
@@ -173,28 +174,96 @@
 </br>
 
 <h2 style="margin-top:12px" align="center">Technologies</h2>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src ="https://img.shields.io/static/v1?label=%7C&message=NODE.JS&color=006400&style=plastic&logo=node.js">
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=%7C&message=HEROKU&color=cdd148&style=plastic&logo=heroku">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=NETLIFY&color=cdd148&style=plastic&logo=netlify">
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/> -->
+    
+</p>
 <!-- table for technologies -->
-<table align="center">
-    <tr> <!--Js--> 
+<!-- <table align="center">
+    <tr> 
         <td align="center"  width="140" height="112.43">
             <img src="images/es6.png" width="65" height="65" alt="JavaScript ES6" />
             <br>JavaScript ES6
-        </td> <!--React--> 
+        </td> 
         <td align="center"  width="140" height="112.43">
             <img src="images/react.png" width="65" height="65" alt="React.js" />
             <br>React.js
-        </td> <!--Node--> 
+        </td>
         <td align="center"  width="140" height="112.43">
             <img src="images/node.png" width="65" height="65" alt="Node.js" />
             <br>Node.js
-        </td> <!--Express--> 
+        </td> 
         <td align="center"  width="140" height="112.43">
             <img src="images/express.png" width="65" height="65" alt="Express.js" />
             <br>Express
         </td>
-        <!-- add mongoDb heroku netlify git github rename to Technologies -->
     </tr>
 </table>
-<!-- End of table for technologies -->
-</br></br></br>
+</br></br></br> -->
 
+
+<!-- Alternate markdown styles -->
+<!-- @media (min-width: 576px) { ... }
+*use \ to escape just like \*javascript*
+*italic*
+_italic_
+**strong**
+__strong__
+~~strike through~~
+---
+___
+[Link](http://placekitten.com)
+
+# UL
+* item 1
+* item 2
+  * nested item 1
+  * nested item 2
+
+# OL
+1. Item 1
+1. Item 2
+1. Item 3
+
+## Inline Code Block
+
+`<p>Paragraph</p>`
+
+### Images
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+# GitHub Markdown
+
+### Code Blocks
+```bash
+  npm install
+  npm start
+```
+
+```javascript
+  funciton add()(num1, num2) {
+    return num1 + num2;
+  }
+```
+| Name    | Email         |
+|---------|---------------|
+|John Doe | john@gmail.com|
+|Jane Doe | jane@gmail.com|
+
+* [x] Task 1
+* [ ] Task 2 -->
+<!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>-->
+
+<!-- <img src="https://img.shields.io/static/v1?label=%7C&message=<TECH_NAME>&color=cdd148&style=plastic&logo=<TECH_LOGO>"> -->
+<!-- [![Portfolio](/images/portfolio.png)](https://kevintapolcsanyi.netlify.app/) -->
