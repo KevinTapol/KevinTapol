@@ -22,7 +22,11 @@
       </p> <!--Description of technologies and functionality of Portfolio website-->
       <p><strong>Bootstrapmade.com Template, HTML, CSS Javascript, JQuery, Bootstrap Icons and Classes and Font Awesome Icons </strong> - A github hosted Profile website describing my learning progression of projects from MVC to APIs.</p>
     </td> <!--End of Portfolio-->
-    <td width="50%" valign="top"> <!--Start of Shoppin' It taking 50% of view window-->
+    
+  </tr> <!--End of table row of Portfolio-->
+</table>
+<table bordercolor="#66b2b2">
+  <td width="50%" valign="top"> <!--Start of Shoppin' It taking 50% of view window-->
       <h3 align="center">Shoppin' It (Group Project)</h3>
       <br /> <!--Click the Shoppin'It image to open a new window to Nasa API website-->
       <a target="_blank" href="https://group-project-shoppin-it.herokuapp.com/">
@@ -41,10 +45,9 @@
       </p> <!--Desciption of technologies and functionality of Shoppin'It Group Project-->
         <p><strong>MVC, HTML, CSS, JS, Node.js, Express.js, Mongoose, MongoDB, Passport.js, Session, Flash, Morgan, dotenv, Git/Github, Heroku</strong> - Signup to create an account and login to your groceries list. Full stack MVC CRUD app allowing you get your grocery list, add new groceries, update your grocery list by marking out groceries shopped and delete groceries.Hosted on Heroku for back end application.</p>
     </td> <!--End of Shoppin'It Group Project-->
-  </tr> <!--End of table row of Portfolio and Shoppin'It-->
 </table>
 
-<!-- Start of table with Nasa API and React Pokemon Api -->
+<!-- Start of table with Nasa API  -->
 <table bordercolor="#66b2b2">
   <!-- Start of table with Portfolio and Nasa Api -->
   <tr>
@@ -64,25 +67,7 @@
       </a>
       </p> <!--Desciption of technologies and functionality of Nasa API-->
         <p><strong>HTML, CSS, JS, Node.js, dotenv, Git/Github, Nasa API</strong> - Fetch Historical Nasa API by Day</p>
-    </td> <!--End of Nasa API-->
-    <td width="50%" valign="top"> <!--Start of React Pokemon API Website to use 50% of the window-->
-      <h3 align="center">Coming Soon: React Axios Pokemon API</h3>
-      <br /> <!--Click Profile Image to open a new window to Profile website-->
-      <a target="_blank" href="">
-        <img src="images/pokemon.png" width="100%" alt="#"/>
-      </a>
-      <br />
-      <p align="center"> <!--Click repo icon to link to GitHub React Pokemon API repo-->
-      <a target="_blank" href="#" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-      </a>  <!--Click website icon to open a new window to Profile website-->
-      <a target="_blank" href="#" >
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-      </a>
-      </p> <!--Description of technologies and functionality of Portfolio website-->
-      <p><strong>React.js, Axios</strong> - A github hosted Pokemon API website using React and Axios</p>
-    </td> <!--End of Portfolio-->
-    
+    </td> <!--End of Nasa API-->    
   </tr> <!--End of table row of Portfolio and Nasa API-->
 </table>
 
@@ -107,7 +92,11 @@
       </p> <!--Desription of technologies used and what the HR Box functionality -->
         <p><strong>Javascript, MongoDb, Heroku, Node.js, & Express.js</strong> - A hosted full stack crud app project that allows users to submit like and delete HR suggestions.</p>
     </td>
-    <td width="50%" valign="top"> <!--Set table to use 50% of the window-->
+    
+</table>
+
+<table bordercolor="#66b2b2">
+<td width="50%" valign="top"> <!--Set table to use 50% of the window-->
       <h3 align="center">D's Diner</h3> <!--Start of D's Diner-->
         <br /> <!--Click on project image and open a new window to D's Diner website-->
         <a target="_blank" href="https://dees-diner.netlify.app/">
@@ -126,8 +115,6 @@
     </td> <!--End of D's Diner-->
   </tr> <!--End of table row of both HR Box and D's Diner-->
 </table>
-</br>
-
 
 <table bordercolor="#66b2b2">
   <!-- Start of table with Portfolio and Group Project Shoppin' It -->
@@ -175,17 +162,18 @@
 
 <h2 style="margin-top:12px" align="center">Technologies</h2>
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=3c7f5d&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=3c7f5d&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=7cfc00&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=ffff00&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=00ffff&style=plastic&logo=react"/>
     <img src ="https://img.shields.io/static/v1?label=%7C&message=NODE.JS&color=006400&style=plastic&logo=node.js">
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=%7C&message=HEROKU&color=cdd148&style=plastic&logo=heroku">
-    <img src="https://img.shields.io/static/v1?label=%7C&message=NETLIFY&color=cdd148&style=plastic&logo=netlify">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=GITHUB&color=cdd148&style=plastic&logo=github">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=HEROKU&color=e0ffff&style=plastic&logo=heroku">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=NETLIFY&color=e0ffff&style=plastic&logo=netlify">
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/> -->
     
 </p>
