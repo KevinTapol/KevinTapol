@@ -50,8 +50,8 @@
 <!-- Start of table with Nasa API  -->
 <table bordercolor="#66b2b2">
   <!-- Start of table with Portfolio and Nasa Api -->
-  <tr>
-    <td width="100%" valign="top"> <!--Start of Nasa API taking 50% of view window-->
+  <tr align="center">
+    <td width="50%" valign="top"> <!--Start of Nasa API taking 50% of view window-->
       <h3 align="center">Nasa Picture of the Day</h3>
       <br /> <!--Click Nasa Api image to open a new window to Nasa API website-->
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html">
