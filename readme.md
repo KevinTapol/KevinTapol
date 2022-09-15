@@ -48,7 +48,7 @@
 </table>
 
 <!-- Start of table with Nasa API  -->
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" align="center">
   <!-- Start of table with Portfolio and Nasa Api -->
   <tr align="center">
     <td width="50%" valign="top"> <!--Start of Nasa API taking 50% of view window-->
