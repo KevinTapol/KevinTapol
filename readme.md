@@ -51,7 +51,7 @@
 <table bordercolor="#66b2b2">
   <!-- Start of table with Portfolio and Nasa Api -->
   <tr>
-    <td width="50%" valign="top"> <!--Start of Nasa API taking 50% of view window-->
+    <td width="100%" valign="top"> <!--Start of Nasa API taking 50% of view window-->
       <h3 align="center">Nasa Picture of the Day</h3>
       <br /> <!--Click Nasa Api image to open a new window to Nasa API website-->
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html">
@@ -96,7 +96,8 @@
 </table>
 
 <table bordercolor="#66b2b2">
-<td width="50%" valign="top"> <!--Set table to use 50% of the window-->
+  <tr>
+    <td width="50%" valign="top"> <!--Set table to use 50% of the window-->
       <h3 align="center">D's Diner</h3> <!--Start of D's Diner-->
         <br /> <!--Click on project image and open a new window to D's Diner website-->
         <a target="_blank" href="https://dees-diner.netlify.app/">
