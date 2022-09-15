@@ -95,7 +95,7 @@
     
 </table>
 
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" align="center">
   <tr>
     <td width="50%" valign="top"> <!--Set table to use 50% of the window-->
       <h3 align="center">D's Diner</h3> <!--Start of D's Diner-->
