@@ -154,13 +154,15 @@
 <!-- current solutions are to next in p tag or table > td and add align="center" -->
 <table align="center">
   <tr>
-    <td align="center"> <img src="images/veteran.jpg" width="200px"/>
+    <td align="center"> 
+      <p align="center">
+        <img src="images/veteran.jpg" width="200px"/>
+      </p>
     </td>
   </tr>
 </table>
 
-</br>
-
+<!-- Technologies -->
 <h2 style="margin-top:12px" align="center">Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=3c7f5d&style=plastic&logo=html5"/>
@@ -178,6 +180,15 @@
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/> -->
     
 </p>
+
+<!-- @media only screen and (max-width: 640px) {
+	h4 {
+		font-size: 88px;
+	}
+}
+
+@media (min-width: 576px) { ... } -->
+
 <!-- table for technologies -->
 <!-- <table align="center">
     <tr> 
