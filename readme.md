@@ -13,7 +13,7 @@
       <!-- [![Portfolio](/images/portfolio.png)](https://kevintapolcsanyi.netlify.app/) -->
       <br />
       <p align="center"> <!--Click repo icon to link to GitHub Portfolio repo-->
-      <a target="_blank" href="https://github.com/KevinTapol/PortfolioC" >
+      <a target="_blank" href="https://github.com/KevinTapol/Profile" >
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>  <!--Click website icon to open a new window to Profile website-->
       <a target="_blank" href="https://kevintapolcsanyi.netlify.app/" >
