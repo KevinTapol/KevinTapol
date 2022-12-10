@@ -15,6 +15,7 @@
       <p align="center"> <!--Click repo icon to link to GitHub Portfolio repo-->
       <a target="_blank" href="https://github.com/KevinTapol/Profile" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
       </a>  <!--Click website icon to open a new window to Profile website-->
       <a target="_blank" href="https://kevintapolcsanyi.netlify.app/" >
           <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -38,6 +39,7 @@
       <p align="center"> <!--Click repo icon link to open a new window to Shoppin'It Group Project GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/GroupProjectShoppingList" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
       </a> <!--Click website icon link to open a new window to Shoppin'It Group Project website-->
       <a target="_blank" href="https://shoppinit.onrender.com/" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -61,6 +63,7 @@
       <p align="center"> <!--Click repo icon link to open a new window to Nasa API GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/NasaApi" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
       </a> <!--Click website icon link to open a new window to Nasa API website-->
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -85,6 +88,7 @@
       <p align="center"> <!--Click for GitHub repo link to HR Box-->
       <a target="_blank" href="https://github.com/KevinTapol/HR-Box" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
       </a> <!--Click on link to project website and open a new window to the HR Box website-->
       <a target="_blank" href="https://hr-box.onrender.com/" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -107,6 +111,7 @@
         <p align="center"> <!--Click for link to D's Diner GitHub repo-->
         <a target="_blank" href="https://github.com/KevinTapol/diner">
           <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </br>
         </a> <!--Click website icon link to open a new window to D's Diner website-->
         <a target="_blank" href="https://dees-diner.netlify.app/" >
           <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -135,9 +140,11 @@
       <p align="center"> <!--Click repo icon link to open a new window to Codewars GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/codewars-js" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_JS_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
         <!-- Codewars Python GitHub Repo Link -->
         <a target="_blank" href="https://github.com/KevinTapol/codewars-python" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_PY_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </br>
       </a> <!--Click website icon link to open a new window to My Codewars Profile-->
       <a target="_blank" href="https://www.codewars.com/users/KevinTap" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
