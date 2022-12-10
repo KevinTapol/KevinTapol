@@ -121,7 +121,7 @@
   <!-- Start of table with Portfolio and Group Project Shoppin' It -->
   <tr>
     <td width="50%" valign="top"> <!--Start of Shoppin' It taking 50% of view window-->
-      <h3 align="center">Codewars for JavaScript and Python</h3>
+      <h3 align="center">Codewars for JavaScript(JS) and Python(PY)</h3>
       <br /> <!--Click the the Ranking to go to my CodewarsProfile-->
       <a target="_blank" href="https://www.codewars.com/users/KevinTap">
         <img src="images/CodewarsRank.png" width="100%"  alt="#"/>
@@ -134,10 +134,10 @@
       <br />
       <p align="center"> <!--Click repo icon link to open a new window to Codewars GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/codewars-js" >
-        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_JAVASCRIPT_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_JS_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         <!-- Codewars Python GitHub Repo Link -->
         <a target="_blank" href="https://github.com/KevinTapol/codewars-python" >
-        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_PYTHON_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_PY_GITHUB_REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a> <!--Click website icon link to open a new window to My Codewars Profile-->
       <a target="_blank" href="https://www.codewars.com/users/KevinTap" >
         <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK_HERE_FOR_WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
