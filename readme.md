@@ -14,7 +14,7 @@
       <br />
       <p align="center"> <!--Click repo icon to link to GitHub Portfolio repo-->
       <a target="_blank" href="https://github.com/KevinTapol/Profile" >
-        <img src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>  <!--Click website icon to open a new window to Profile website-->
       <a target="_blank" href="https://kevintapolcsanyi.netlify.app/" >
           <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
