@@ -14,10 +14,10 @@
       <br />
       <p align="center"> <!--Click repo icon to link to GitHub Portfolio repo-->
       <a target="_blank" href="https://github.com/KevinTapol/Profile" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>  <!--Click website icon to open a new window to Profile website-->
       <a target="_blank" href="https://kevintapolcsanyi.netlify.app/" >
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p> <!--Description of technologies and functionality of Portfolio website-->
       <p><strong>HTML, CSS Javascript, JQuery, Bootstrap Icons and Classes and Font Awesome Icons </strong> - A github hosted Profile website describing my learning progression of projects including full stack MVCs and APIs.</p>
@@ -37,10 +37,10 @@
       <br />
       <p align="center"> <!--Click repo icon link to open a new window to Shoppin'It Group Project GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/GroupProjectShoppingList" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a> <!--Click website icon link to open a new window to Shoppin'It Group Project website-->
       <a target="_blank" href="https://shoppinit.onrender.com/" >
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p> <!--Desciption of technologies and functionality of Shoppin'It Group Project-->
         <p><strong>MVC, HTML, CSS, JS, Node.js, Express.js, Mongoose, MongoDB, Passport.js, Session, Flash, Morgan, dotenv, Git/Github, Heroku</strong> - Signup to create an account and login to your groceries list. Full stack MVC CRUD app allowing you get your grocery list, add new groceries, update your grocery list by marking out groceries shopped and delete groceries.Hosted on Heroku for back end application.</p>
@@ -60,10 +60,10 @@
       <br />
       <p align="center"> <!--Click repo icon link to open a new window to Nasa API GitHub repo-->
       <a target="_blank" href="https://github.com/KevinTapol/NasaApi" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a> <!--Click website icon link to open a new window to Nasa API website-->
       <a target="_blank" href="https://kevintapol.github.io/NasaApi/index.html" >
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p> <!--Desciption of technologies and functionality of Nasa API-->
         <p><strong>HTML, CSS, JS, Node.js, dotenv, Git/Github, Nasa API</strong> - Fetch Historical Nasa API by Day</p>
@@ -84,10 +84,10 @@
       <br />
       <p align="center"> <!--Click for GitHub repo link to HR Box-->
       <a target="_blank" href="https://github.com/KevinTapol/HR-Box" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a> <!--Click on link to project website and open a new window to the HR Box website-->
       <a target="_blank" href="https://hr-box.onrender.com/" >
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p> <!--Desription of technologies used and what the HR Box functionality -->
         <p><strong>Javascript, MongoDb, Heroku, Node.js, & Express.js</strong> - A hosted full stack crud app project that allows users to submit like and delete HR suggestions.</p>
@@ -106,10 +106,10 @@
         <br />
         <p align="center"> <!--Click for link to D's Diner GitHub repo-->
         <a target="_blank" href="https://github.com/KevinTapol/diner">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a> <!--Click website icon link to open a new window to D's Diner website-->
         <a target="_blank" href="https://dees-diner.netlify.app/" >
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
         </p> <!--Description of technologies and functionality of D's Diner-->
         <p><strong>HTML CSS</strong> - A mobile friendly netlify hosted website for D's Diner. </p>
@@ -121,7 +121,7 @@
   <!-- Start of table with Portfolio and Group Project Shoppin' It -->
   <tr>
     <td width="50%" valign="top"> <!--Start of Shoppin' It taking 50% of view window-->
-      <h3 align="center">Codewars for JavaScript</h3>
+      <h3 align="center">Codewars for JavaScript and Python</h3>
       <br /> <!--Click the the Ranking to go to my CodewarsProfile-->
       <a target="_blank" href="https://www.codewars.com/users/KevinTap">
         <img src="images/CodewarsRank.png" width="100%"  alt="#"/>
@@ -130,17 +130,27 @@
         <p align="center">
           <img align="center" src="images/DailyPush.png" width="100%"  alt="#"/>
         </p>
+        <p align="center">
+          <img align="center" src="images/XmasDailyPush.png" width="100%"  alt="#"/>
+        </p>
+        <p align="center">
+          <img align="center" src="images/HalloweenDailyPush.png" width="100%"  alt="#"/>
+        </p>
       </a>
       <br />
-      <p align="center"> <!--Click repo icon link to open a new window to Codewars GitHub repo-->
+      <p align="center"> <!--Click repo icon link to open a new window to Codewars GitHub repo for JavaScript-->
       <a target="_blank" href="https://github.com/KevinTapol/codewars-js" >
-        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR JAVASCRIPT GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <!-- Codewars Python GitHub Repo Link -->
+      <a target="_blank" href="https://github.com/KevinTapol/codewars-python" >
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR PYTHON GITHUB REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        <!-- </br> -->
       </a> <!--Click website icon link to open a new window to My Codewars Profile-->
       <a target="_blank" href="https://www.codewars.com/users/KevinTap" >
-        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        <img height="30" src="https://img.shields.io/static/v1?label=|&message=CLICK HERE FOR WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p> <!--Desciption of technologies and functionality of Shoppin'It Group Project-->
-        <p><strong>JavaScript</strong> - I do a Codewars everyday to keep pushing myself to grow and learn. Once I have solved the problem myself, I study the alternate answers of best practices, most clever and interesting solutions from my fellow coders. My first answer will always be the most easy to follow. Lately I have been challenging myself to also give a one line answer on top of my version of best practices.</p>
+        <p><strong>JavaScript and Python</strong> - I do a Codewars everyday to keep pushing myself to grow and learn. Once I have solved the problem myself, I study the alternate answers of best practices, most clever and interesting solutions from my fellow coders. My first answer will always be the most easy to follow. Lately I have been challenging myself to also give a one line answer on top of my version of best practices.</p>
     </td> <!--End of Shoppin'It Group Project-->
   </tr> <!--End of table row of Portfolio and Shoppin'It-->
 </table>
